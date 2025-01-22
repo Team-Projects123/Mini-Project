@@ -1,1 +1,24 @@
-# Mini-Project
+# Mini-Project : Library Management System
+
+![Screenshot 2025-01-13 200945](https://github.com/user-attachments/assets/b59e5182-7068-4bbe-9a67-1080a1d31aae)
+![Screenshot 2025-01-13 201612](https://github.com/user-attachments/assets/94454445-1c44-4863-a2d5-be557a36f668)
+![Screenshot 2025-01-13 201754](https://github.com/user-attachments/assets/07c6d106-a20f-4722-a87c-0d70e980dac7)
+![Screenshot 2025-01-13 201855](https://github.com/user-attachments/assets/be5fff59-0301-40d7-98ce-5ac267de0ae2)
+![Screenshot 2025-01-13 201943](https://github.com/user-attachments/assets/c5034e83-5028-4c9b-9ee9-fb9bc44afab3)
+![Screenshot 2025-01-13 202035](https://github.com/user-attachments/assets/75acb4f5-bebe-4886-a49f-735e307d5df3)
+![Screenshot 2025-01-13 202358](https://github.com/user-attachments/assets/ee6cc532-e51d-41e2-b03e-744cc0be50a9)
+![Screenshot 2025-01-13 202524](https://github.com/user-attachments/assets/651458a2-6c70-48f9-9f03-753fa8e2430a)
+![Screenshot 2025-01-13 202627](https://github.com/user-attachments/assets/b26c207d-ea49-4e85-b33e-0c5926ad9215)
+![Screenshot 2025-01-13 202657](https://github.com/user-attachments/assets/2ef8eaf6-8b5a-4c0c-90b7-1b54e846cce4)
+![Screenshot 2025-01-13 202742](https://github.com/user-attachments/assets/4f822c25-72d8-4602-b305-4715c9f7aa9a)
+![Screenshot 2025-01-13 202821](https://github.com/user-attachments/assets/c01444db-1106-446a-9112-c32e3ac37d0e)
+![Screenshot 2025-01-13 202938](https://github.com/user-attachments/assets/4001c2d2-790b-4d2a-8264-22acef7db1fd)
+![Screenshot 2025-01-13 202955](https://github.com/user-attachments/assets/70528d25-849e-4bc2-b6ab-85fd88729832)
+![Screenshot 2025-01-13 203512](https://github.com/user-attachments/assets/3fe89b17-095e-4d64-8c45-5c8dea84d18d)
+![Screenshot 2025-01-13 203746](https://github.com/user-attachments/assets/d9fdcffc-9c0f-4b45-b0e6-38d497edfcd4)
+![Screenshot 2025-01-13 203841](https://github.com/user-attachments/assets/036142af-2272-4011-b709-0c1a8f69d60b)
+![Screenshot 2025-01-13 203934](https://github.com/user-attachments/assets/994db9e7-b186-4f0d-8244-7777c7e68b52)
+![Screenshot 2025-01-13 204050](https://github.com/user-attachments/assets/0ba355a4-32fc-493c-87e0-b9234f377f8b)
+![Screenshot 2025-01-13 204928](https://github.com/user-attachments/assets/907dbf6b-aa46-4285-9579-cf89600415be)
+
+![Screenshot 2025-01-13 205014](https://github.com/user-attachments/assets/dcbbae99-6cb7-471b-be07-2a02b2ac60d0)
