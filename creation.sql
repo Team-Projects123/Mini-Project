@@ -70,4 +70,24 @@ INSERT INTO Loans (BookID, MemberID, LoanDate, DueDate, ReturnDate) VALUES
 (1, 1, '2025-01-01', '2025-01-15', NULL), 
 (2, 2, '2025-01-05', '2025-01-19', '2025-01-18');
 
+DESC Books
+
+DESC Authors
+
+DESC Book_Authors
+
+DESC Members
+
+DESC Loans
+
+SELECT * FROM Books
+
+SELECT * FROM Authors
+
+SELECT * FROM Book_Authors
+
+SELECT * FROM Members
+
+SELECT * FROM Loans
+
 -- Note: All outputs will be provided in readme file.
